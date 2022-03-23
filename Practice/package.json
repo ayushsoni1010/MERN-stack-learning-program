@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "formidable": "^2.0.1",
     "lodash": "^4.17.21",
+    "nodemailer": "^6.7.3",
     "upper-case": "^2.0.2"
   },
   "devDependencies": {
